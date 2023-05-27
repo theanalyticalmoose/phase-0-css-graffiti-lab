@@ -1,1 +1,26 @@
 /* write your override styles here */
+.tag-1 {
+    background: url(../images/tag-1.png) no-repeat;
+    z-index: 7;
+    display: block;
+  }
+
+#wall .tag-1 {
+    display: none;
+  }
+  
+#wall .tag-1 {
+    display: none;
+  }
+
+  #wall .tag-1 {
+    display: none;
+  }
+  
+#wall .tag-1 {
+    display: none;
+  }
+
+  p {
+    color: blue !important;  /* This will override any other color property of p, even more specific selectors. */
+}
